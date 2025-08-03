@@ -47,8 +47,8 @@ A beautiful, privacy-focused generative AI demo that showcases local image and a
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd private-ai-creative-suite
+git clone https://github.com/mediansant/Private-AI-Creative-Suite.git
+cd Private-AI-Creative-Suite
 ```
 
 ### Step 2: Create a Virtual Environment
